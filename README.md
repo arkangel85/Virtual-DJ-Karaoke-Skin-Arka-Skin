@@ -1,0 +1,2 @@
+# Virtual DJ Karaoke Skin Arka Skin
+Questa skin è una versione rivisitata della skin "PRO" di Virtual DJ pensata appositamente per i professionisti che fanno Karaoke: all'interno della tab Video vicino al mixer è stato inserito un nuovo pulsante "VIDEO MODE" che permette di sostituire uno dei due deck con una versione più grande e leggibile del video senza comprometterne l'utilizzo, inoltre ricliccando sul pulsante è possibile ripristinare il deck sostituito.
